@@ -6,7 +6,7 @@ I'm a firewall security architect and I create many useful tools I'd like to sha
 
 - [fwsec/fgt-webui-tools](https://github.com/fwsec/fgt-webui-tools)
 
-![FGT WebUI](https://www.dannyjung.de/fgt-webui-tools.png)
+![FGT WebUI](https://www.dannyjung.de/fgt_webui_tools.png)
 
 <!--
 **fwsec/fwsec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
